@@ -5,7 +5,7 @@ The client is asking for a statistical analysis of MechaCar due to its productio
 
 ## Purpose
 
-The purpose of this analysis is to predict the mpg of MechaCar prototypes, collect summary statistics on the pounds per square inch(PSI) of the suspension coils, and determine if the manufacturing lots are statistically different from the mean population.
+The purpose of this analysis is to predict the miles per gallon (mpg) of MechaCar prototypes, collect summary statistics on the pounds per square inch(PSI) of the suspension coils, and determine if the manufacturing lots are statistically different from the mean population.
 
 ## Linear Regression to Predict MPG
 
