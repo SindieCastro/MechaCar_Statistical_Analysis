@@ -71,7 +71,7 @@ The dependent variable would be the safety ratings while the frontal crash test 
 
 **What is the null hypothesis or alternative hypothesis?**
 
-**Null hypothesis:** If MechaCar or the competition score e a 5 star safety rating, they will score a 5 star for the frontal crash test. 
+**Null hypothesis:** If MechaCar or the competition score a 5 star safety rating, they will score a 5 star for the frontal crash test. 
 **Alternate hypothesis:** If MechaCar or the competition do not score a 5 star safety rating, they will not score a 5 star for the frontal crash test. 
 
 **What statistical test would you use to test the hypothesis? And why?**
